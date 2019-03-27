@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wall>
+	<!-- setup -->
+	<setup>
+		<!-- image format; default to jpg -->
+		<imgFormat>png</imgFormat>
+		<!-- group; set total to zero (0) if group is not needed -->
+		<!--<group total="5">
+			<name group="1">SMGT</name>
+			<name group="2">BPS</name>
+			<name group="3">HWM</name>
+			<name group="4">HMIT</name>
+			<name group="5">IL</name>
+		</group> -->
+		<group total="0" />
+	</setup>
+	
+	<!-- ROW 1 -->
+	
+	<video fileName="AbrahamLincoln" group="1">
+		<src><![CDATA[<iframe width="640" height="360" src="https://www.youtube.com/embed/6Eo766iZZ0c?autoplay=1&rel=0" frameborder="0" allowfullscreen></iframe>]]></src>
+		<author>Timur Bekmambetov</author>
+		<title>Abraham Lincoln: Vampire Hunter</title>
+		<description>Abraham Lincoln, the 16th President of the United States, discovers vampires are planning to take over the United States. He makes it his mission to eliminate them.</description>
+	</video>
+	
+	<video fileName="Banana" group="1">
+		<src><![CDATA[<iframe width="640" height="360" src="https://www.youtube.com/embed/b6jlWbiTy1E?autoplay=1&rel=0" frameborder="0" allowfullscreen></iframe>]]></src>
+		<author>Despicable Me</author>
+		<title>Banana</title>
+		<description>Minions go crazy over a banana.</description>
+	</video>
+	
+	<video fileName="ChickenWithPlums" group="0">
+		<src></src>
+		<author></author>
+		<title>Chicken with Plums</title>
+		<description></description>
+	</video>
+	
+	<video fileName="CirqueduSoleil" group="1">
+		<src><![CDATA[<iframe width="640" height="360" src="https://www.youtube.com/embed/QKQ6ooeioqY?autoplay=1&rel=0" frameborder="0" allowfullscreen></iframe>]]></src>
+		<author>Andrew Adamson</author>
+		<title>Cirque du Soleil: Worlds Away</title>
+		<description>An original story featuring performances by Cirque du Soleil...</description>
+	</video>
+	
+	<video fileName="DeathOfASuperHero" group="1">
+		<src><![CDATA[<iframe width="640" height="360" src="https://www.youtube.com/embed/yUFaKTv0fhk?autoplay=1&rel=0" frameborder="0" allowfullscreen></iframe>]]></src>
+		<author>Ian Fitzgibbon</author>
+		<title>Death of a Superhero</title>
+		<description>A dying 15-year-old boy draws stories of an invincible superhero as he struggles with his mortality.</description>
+	</video>
+	
+	<!-- ROW 2 -->
+	
+	<video fileName="DespicableMe2" group="2">
+		<src><![CDATA[<iframe width="640" height="360" src="https://www.youtube.com/embed/gRbDEzzNFWA?autoplay=1&rel=0" frameborder="0" allowfullscreen></iframe>]]></src>
+		<author>Pierre Coffin &amp; Chris Renaud</author>
+		<title>Despicable Me 2</title>
+		<description>Second upcoming movie of another Despicable Me.</description>
+	</video>
+	
+	<video fileName="Frankenweenie" group="2">
+		<src><![CDATA[<iframe width="640" height="360" src="https://www.youtube.com/embed/H1yR-gEldC4?autoplay=1&rel=0" frameborder="0" allowfullscreen></iframe>]]></src>
+		<author>Tim Burton</author>
+		<title>Frankenweenie</title>
+		<description>Young Victor conducts a science experiment to bring his beloved dog Sparky back to life, only to face unintended, sometimes monstrous, consequences.</description>
+	</video>
+	
+	<video fileName="Goats" group="2">
+		<src></src>
+		<author></author>
+		<title>Goats</title>
+		<description></description>
+	</video>
+	
+	<video fileName="LesMiserables" group="2">
+		<src><![CDATA[<iframe width="640" height="360" src="https://www.youtube.com/embed/IuEFm84s4oI?autoplay=1&rel=0" frameborder="0" allowfullscreen></iframe>]]></src>
+		<author>Tim Hooper</author>
+		<title>Les Miserables</title>
+		<description>An adaptation of the successful stage musical based on Victor Hugo's classic novel set in 19th-century France, in which a paroled prisoner named Jean Valjean seeks redemption.</description>
+	</video>
+	
+	<video fileName="Looper" group="2">
+		<src><![CDATA[<iframe width="640" height="360" src="https://www.youtube.com/embed/eI3ju17W070?autoplay=1&rel=0" frameborder="0" allowfullscreen></iframe>]]></src>
+		<author>Rian Johnson</author>
+		<title>Looper</title>
+		<description>In 2072, when the mob wants to get rid of someone, the target is sent 30 years into the past, where a hired gun awaits. Someone like Joe, who one day learns the mob wants to 'close the loop' by transporting back Joe's future self.</description>
+	</video>
+	
+	<!-- ROW 3 -->
+	
+	<video fileName="OrientationDay" group="3">
+		<src></src>
+		<author></author>
+		<title></title>
+		<description></description>
+	</video>
+	
+	<video fileName="OzTheGreatandPowerful" group="3">
+		<src></src>
+		<author></author>
+		<title>Oz: The Great and Powerful</title>
+		<description></description>
+	</video>
+	
+	<video fileName="RubySparks" group="3">
+		<src></src>
+		<author></author>
+		<title></title>
+		<description></description>
+	</video>
+	
+	<video fileName="SesameStreetShareItMaybe" group="3">
+		<src></src>
+		<author></author>
+		<title>Share It Maybe</title>
+		<description></description>
+	</video>
+	
+	<video fileName="SherlockHolmes" group="3">
+		<src></src>
+		<author></author>
+		<title>Sherlock Holmes</title>
+		<description></description>
+	</video>
+	
+	<!-- ROW 4 -->
+	
+	<video fileName="StarTrek2" group="4">
+		<src><![CDATA[<iframe width="640" height="360" src="https://www.youtube.com/embed/3Z2nYOGa7xs?autoplay=1&rel=0" frameborder="0" allowfullscreen></iframe>]]></src>
+		<author>J.J. Abrams</author>
+		<title>Star Trek 2</title>
+		<description>A fan made teaser trailer that fooled the Internet.</description>
+	</video>
+	
+	<video fileName="TheAmazingSpiderman" group="4">
+		<src><![CDATA[<iframe width="640" height="360" src="https://www.youtube.com/embed/atCfTRMyjGU?autoplay=1&rel=0" frameborder="0" allowfullscreen></iframe>]]></src>
+		<author>Marc Webb</author>
+		<title>The Amazing Spider-Man</title>
+		<description>Peter Parker finds a clue that might help him understand why his parents disappeared when he was young. His path puts him on a collision course with Dr. Curt Connors, his father's former partner.</description>
+	</video>
+	
+	<video fileName="TheAvengers" group="4">
+		<src></src>
+		<author></author>
+		<title>The Avengers</title>
+		<description></description>
+	</video>
+	
+	<video fileName="TheDarkKnightRises" group="4">
+		<src><![CDATA[<iframe width="640" height="360" src="https://www.youtube.com/embed/GokKUqLcvD8?autoplay=1&rel=0" frameborder="0" allowfullscreen></iframe>]]></src>
+		<author>Christopher Nolan</author>
+		<title>The Dark Knight Rises</title>
+		<description>Eight years on, a new terrorist leader, Bane, overwhelms Gotham's finest, and the Dark Knight resurfaces to protect a city that has branded him an enemy.</description>
+	</video>
+	
+	<video fileName="TheHobbit" group="4">
+		<src><![CDATA[<iframe width="640" height="360" src="https://www.youtube.com/embed/JTSoD4BBCJc?autoplay=1&rel=0" frameborder="0" allowfullscreen></iframe>]]></src>
+		<author>Peter Jackson</author>
+		<title>The Hobbit: An Unexpected Journey</title>
+		<description>A curious Hobbit, Bilbo Baggins, journeys to the Lonely Mountain with a vigorous group of Dwarves to reclaim a treasure stolen from them by the dragon Smaug.</description>
+	</video>
+	
+	<!-- ROW 5 -->
+	
+	<video fileName="TheLastReef" group="5">
+		<src><![CDATA[<iframe width="640" height="360" src="https://www.youtube.com/embed/ZwcxXfVnN2c?autoplay=1&rel=0" frameborder="0" allowfullscreen></iframe>]]></src>
+		<author>Luke Cresswell &amp; Steve McNicholas</author>
+		<title>The Last Reef</title>
+		<description>The Last Reef is an uplifting, inspirational large-format and 3D cinema experience capturing one of nature's more vibrant and diverse wonderlands. Exotic coral reefs, vibrant sea walls in the sub-arctic pulsating with anemones and crustaceans: these biodiversity hot spots are as vital to our lives as the rainforests.</description>
+	</video>
+	
+	<video fileName="TheOddLifeOfTimothyGreen" group="5">
+		<src><![CDATA[<iframe width="640" height="360" src="https://www.youtube.com/embed/0r0Mzu6ToZQ?autoplay=1&rel=0" frameborder="0" allowfullscreen></iframe>]]></src>
+		<author>Peter Hedges</author>
+		<title>The Odd Life of Timothy Green</title>
+		<description>A childless couple bury a box in their backyard, containing all of their wishes for an infant. Soon, a child is born, though Timothy Green is not all that he appears.</description>
+	</video>
+	
+	<video fileName="ThePerksOfBeingAWallflower" group="5">
+		<src></src>
+		<author></author>
+		<title>The Perks of Being a Wallflower</title>
+		<description></description>
+	</video>
+	
+	<video fileName="WrathOfTheTitans" group="5">
+		<src><![CDATA[<iframe width="640" height="360" src="https://www.youtube.com/embed/Gq8wMRtog1A?autoplay=1&rel=0" frameborder="0" allowfullscreen></iframe>]]></src>
+		<author>Jonathan Liebesman</author>
+		<title>Wrath of the Titans</title>
+		<description>Perseus braves the treacherous underworld to rescue his father, Zeus, captured by his son, Ares, and brother Hades who unleash the ancient Titans upon the world.</description>
+	</video>
+	
+	<video fileName="Wreck-ItRalph" group="5">
+		<src><![CDATA[<iframe width="640" height="360" src="https://www.youtube.com/embed/btB8tb8fLYM?autoplay=1&rel=0" frameborder="0" allowfullscreen></iframe>]]></src>
+		<author>Rich Moore</author>
+		<title>Wreck-It Ralph</title>
+		<description>The bad-guy character in a classic game who longs to be a hero brings trouble to his entire arcade after sneaking into a new first-person shooter game and unleashing a deadly enemy.</description>
+	</video>
+	
+</wall>

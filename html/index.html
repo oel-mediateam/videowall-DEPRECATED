@@ -1,0 +1,50 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Video Wall Showcase - Demo</title>
+<link href="https://media.uwex.edu/media/video_wall/source/css/videoWall.min.css" type="text/css" rel="stylesheet" media="all" />
+<link href="https://media.uwex.edu/media/video_wall/source/video-js/video-js.min.css" type="text/css" rel="stylesheet" media="all" />
+<link href="https://media.uwex.edu/media/video_wall/source/fancybox/jquery.fancybox.pack.css" type="text/css" rel="stylesheet" media="all" />
+<style type="text/css">
+<!--
+body {
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color: #555;
+	background-color: #fff;
+	margin: 10px 0;
+}
+-->
+</style>
+</head>
+
+<body>
+<div id="VWrapper">
+    <h1>Video Wall Showcase</h1>
+    <p>This is a short description of what this "Video Wall Showcase" is all about. It does not have to be short.</p>
+    <div id="videoContainer" class="hidden">
+        <h1 id="title"> </h1>
+        <video id="videoclip" class="video-js vjs-default-skin" controls preload="none" width="640" height="360"> </video>
+        <div id="exVid"> </div>
+        <p id="desc"> </p>
+    </div>
+    <div id="group" class="hidden"><ul> </ul></div>
+    <div id="videoWall"> </div>
+    <footer>
+        <div id="errorMsg"> </div>
+        <p id="device"> </p>
+        <p>Copyright &copy; 2014 University of Wisconsin-Extension Division of Continuing Education, Outreach and E-Learning. All rights reserved.</p>
+    </footer>
+</div>
+<script src="https://media.uwex.edu/media/video_wall/source/scripts/jquery-1.7.2-min.js" type="text/javascript"></script>
+<script src="https://media.uwex.edu/media/video_wall/source/scripts/jqueryUI-min-1.8.18.js" type="text/javascript"></script>
+<script src="https://media.uwex.edu/media/video_wall/source/scripts/jquery.preloader.min.js" type="text/javascript"></script>
+<script src="https://media.uwex.edu/media/video_wall/source/fancybox/jquery.fancybox.pack.js" type="text/javascript"></script>
+<script src="https://media.uwex.edu/media/video_wall/source/video-js/video.min.js" type="text/javascript"></script>
+<script src="https://media.uwex.edu/media/video_wall/source/scripts/videoWall.min.js" type="text/javascript"></script>
+<script type="text/javascript">
+    _V_.options.flash.swf = "https://media.uwex.edu/media/video_wall/source/video-js/video-js.swf";
+</script>
+</body>
+</html>
